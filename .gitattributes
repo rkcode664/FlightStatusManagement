@@ -1,2 +1,3 @@
 demo/**/* linguist-vendored=false
+demo/**/* linguist-documentation=false
 *.java linguist-language=Java
