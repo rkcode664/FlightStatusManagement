@@ -1,3 +1,5 @@
 demo/**/* linguist-vendored=false
 demo/**/* linguist-documentation=false
 *.java linguist-language=Java
+mvnw linguist-vendored=true
+mvnw.cmd linguist-vendored=true
